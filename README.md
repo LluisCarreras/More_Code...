@@ -1,3 +1,3 @@
 # More code...
 More examples of code I've made:
-- **season.py**: Python function that calculates the seasonality index for touristic destinations from the data given by the monthly ocupation in a given year.
+- **seasonality.py**: Python function that calculates the seasonality index for touristic destinations from the data given by the monthly ocupation in a given year.
